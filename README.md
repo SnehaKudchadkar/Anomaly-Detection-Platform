@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/67820780-b27b-4839-885d-207d3eb7dc12)# 🦟 Dengue Anomaly Detection System
+# 🦟 Dengue Anomaly Detection System
 A Streamlit-based application for detecting and explaining anomalies in dengue case data across Goa Talukas using time series matrix profile analysis.
 
 ## 🌟 Features
@@ -12,6 +12,7 @@ A Streamlit-based application for detecting and explaining anomalies in dengue c
 - **Configure Detection:** Set anomaly severity threshold and detection window size
 - **Visualize Results:** See anomalies highlighted on interactive time series plots
 - **Receive Insights:** Get automatically generated explanations and response recommendations
+- **Analyze Correlations:** View correlations between confirmed cases and deaths for each region
 
 ## ⚙️ Technical Architecture
 The system consists of three main components:
@@ -38,14 +39,15 @@ stumpy
 - Set the detection window size based on your data patterns
 - Click "Run Anomaly Detection" to generate insights
 - Review detected anomalies and their explanations
-- Examine the visual time series plots showing anomalous points
+- Examine the visual time series plots showing anomalous points and correlation between cases and deaths
 
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/918c6790-bd44-4b58-9396-84f6deaf464f)
 ![image](https://github.com/user-attachments/assets/6fb3292b-133d-4851-b19c-99f84639e620)
 ![image](https://github.com/user-attachments/assets/fd853089-1cf7-4468-94c7-1a61649b372e)
-![image](https://github.com/user-attachments/assets/192ea880-7542-4de1-8c87-bd52fd533ea8)
+![image](https://github.com/user-attachments/assets/bf289919-235b-4d9f-a08d-8e0d6ebb5386)
+![image](https://github.com/user-attachments/assets/ed228cdb-a7de-42be-b20f-2d3ff3633f2a)
 
 
 ## 🧠 Anomaly Explanation Logic
