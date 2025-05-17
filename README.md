@@ -16,9 +16,9 @@ A Streamlit-based application for detecting and explaining anomalies in dengue c
 
 ## ⚙️ Technical Architecture
 The system consists of three main components:
-- Anomaly Detection Module (anomaly.py): Implements time series anomaly detection using STUMPY's matrix profile algorithm
-- Explanation Engine (explain.py): Generates contextual insights and recommendations for detected anomalies
-- Streamlit Interface (app.py): Provides the user interface and visualization capabilities
+- **Anomaly Detection Module** (**anomaly.py**): Implements time series anomaly detection using STUMPY's matrix profile algorithm
+- **Explanation Engine** (**explain.py**): Generates contextual insights and recommendations for detected anomalies
+- **Streamlit Interface** (**app.py**): Provides the user interface and visualization capabilities
 
 
 ## Run the application
