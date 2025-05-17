@@ -1,4 +1,4 @@
-#🦟 Dengue Anomaly Detection System
+# 🦟 Dengue Anomaly Detection System
 A Streamlit-based application for detecting and explaining anomalies in dengue case data across Goa Talukas using time series matrix profile analysis.
 
 ##🌟 Features
