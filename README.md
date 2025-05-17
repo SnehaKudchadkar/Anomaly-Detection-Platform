@@ -21,7 +21,7 @@ The system consists of three main components:
 - **Streamlit Interface** (**app.py**): Provides the user interface and visualization capabilities
 
 
-## Installions
+## Installation
 Install required packages individually
 - pip install streamlit
 - pip install pandas
