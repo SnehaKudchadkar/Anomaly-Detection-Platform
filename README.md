@@ -21,6 +21,15 @@ The system consists of three main components:
 - **Streamlit Interface** (**app.py**): Provides the user interface and visualization capabilities
 
 
+## Installions
+Install required packages individually
+- pip install streamlit
+- pip install pandas
+- pip install matplotlib
+- pip install seaborn
+- pip install numpy
+- pip install stumpy
+
 ## Run the application
 streamlit run app.py
 
